@@ -1,0 +1,25 @@
+C:\Users\ote_o\Desktop\KutuphaneOtomasyonuKatmanlı\BL\bin\Debug\BL.dll
+C:\Users\ote_o\Desktop\KutuphaneOtomasyonuKatmanlı\BL\bin\Debug\BL.pdb
+C:\Users\ote_o\Desktop\KutuphaneOtomasyonuKatmanlı\BL\bin\Debug\Entity.dll
+C:\Users\ote_o\Desktop\KutuphaneOtomasyonuKatmanlı\BL\bin\Debug\Veri.dll
+C:\Users\ote_o\Desktop\KutuphaneOtomasyonuKatmanlı\BL\bin\Debug\Entity.pdb
+C:\Users\ote_o\Desktop\KutuphaneOtomasyonuKatmanlı\BL\bin\Debug\Veri.pdb
+C:\Users\ote_o\Desktop\KutuphaneOtomasyonuKatmanlı\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\ote_o\Desktop\KutuphaneOtomasyonuKatmanlı\BL\obj\Debug\BL.dll
+C:\Users\ote_o\Desktop\KutuphaneOtomasyonuKatmanlı\BL\obj\Debug\BL.pdb
+C:\Users\ote_o\Desktop\KutuphaneOtomasyonuKatmanlı\BL\bin\Debug\Lotomasyonu.mdb
+C:\Users\onur_\OneDrive\Masaüstü\Library Automation\BL\bin\Debug\KutuphaneDatabase.mdb
+C:\Users\onur_\OneDrive\Masaüstü\Library Automation\BL\bin\Debug\BL.dll
+C:\Users\onur_\OneDrive\Masaüstü\Library Automation\BL\bin\Debug\BL.pdb
+C:\Users\onur_\OneDrive\Masaüstü\Library Automation\BL\bin\Debug\Entity.dll
+C:\Users\onur_\OneDrive\Masaüstü\Library Automation\BL\bin\Debug\Veri.dll
+C:\Users\onur_\OneDrive\Masaüstü\Library Automation\BL\bin\Debug\ZedGraph.dll
+C:\Users\onur_\OneDrive\Masaüstü\Library Automation\BL\bin\Debug\Entity.pdb
+C:\Users\onur_\OneDrive\Masaüstü\Library Automation\BL\bin\Debug\Entity.dll.config
+C:\Users\onur_\OneDrive\Masaüstü\Library Automation\BL\bin\Debug\Veri.pdb
+C:\Users\onur_\OneDrive\Masaüstü\Library Automation\BL\bin\Debug\Veri.dll.config
+C:\Users\onur_\OneDrive\Masaüstü\Library Automation\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\onur_\OneDrive\Masaüstü\Library Automation\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\onur_\OneDrive\Masaüstü\Library Automation\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\onur_\OneDrive\Masaüstü\Library Automation\BL\obj\Debug\BL.dll
+C:\Users\onur_\OneDrive\Masaüstü\Library Automation\BL\obj\Debug\BL.pdb

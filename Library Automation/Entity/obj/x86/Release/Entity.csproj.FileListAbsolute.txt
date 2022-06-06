@@ -1,0 +1,20 @@
+C:\Users\ote_o\Desktop\KutuphaneOtomasyonuKatmanlı\Entity\bin\x86\Release\Entity.dll.config
+C:\Users\ote_o\Desktop\KutuphaneOtomasyonuKatmanlı\Entity\bin\x86\Release\Entity.dll
+C:\Users\ote_o\Desktop\KutuphaneOtomasyonuKatmanlı\Entity\bin\x86\Release\Entity.pdb
+C:\Users\ote_o\Desktop\KutuphaneOtomasyonuKatmanlı\Entity\obj\x86\Release\Entity.csprojResolveAssemblyReference.cache
+C:\Users\ote_o\Desktop\KutuphaneOtomasyonuKatmanlı\Entity\obj\x86\Release\Entity.dll
+C:\Users\ote_o\Desktop\KutuphaneOtomasyonuKatmanlı\Entity\obj\x86\Release\Entity.pdb
+C:\Users\onur_\Desktop\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\Entity\bin\x86\Release\Entity.dll.config
+C:\Users\onur_\Desktop\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\Entity\bin\x86\Release\Entity.dll
+C:\Users\onur_\Desktop\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\Entity\bin\x86\Release\Entity.pdb
+C:\Users\onur_\Desktop\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\Entity\obj\x86\Release\Entity.csprojAssemblyReference.cache
+C:\Users\onur_\Desktop\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\Entity\obj\x86\Release\Entity.csproj.CoreCompileInputs.cache
+C:\Users\onur_\Desktop\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\Entity\obj\x86\Release\Entity.dll
+C:\Users\onur_\Desktop\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\Entity\obj\x86\Release\Entity.pdb
+C:\Users\onur_\OneDrive\Masaüstü\Dersler\Görsel Programlama\172119009_Muhammed_Onur_AKCAKALE\172119009_Muhammed_Onur_AKCAKALE\Entity\bin\x86\Release\Entity.dll.config
+C:\Users\onur_\OneDrive\Masaüstü\Dersler\Görsel Programlama\172119009_Muhammed_Onur_AKCAKALE\172119009_Muhammed_Onur_AKCAKALE\Entity\bin\x86\Release\Entity.dll
+C:\Users\onur_\OneDrive\Masaüstü\Dersler\Görsel Programlama\172119009_Muhammed_Onur_AKCAKALE\172119009_Muhammed_Onur_AKCAKALE\Entity\bin\x86\Release\Entity.pdb
+C:\Users\onur_\OneDrive\Masaüstü\Dersler\Görsel Programlama\172119009_Muhammed_Onur_AKCAKALE\172119009_Muhammed_Onur_AKCAKALE\Entity\obj\x86\Release\Entity.csprojAssemblyReference.cache
+C:\Users\onur_\OneDrive\Masaüstü\Dersler\Görsel Programlama\172119009_Muhammed_Onur_AKCAKALE\172119009_Muhammed_Onur_AKCAKALE\Entity\obj\x86\Release\Entity.csproj.CoreCompileInputs.cache
+C:\Users\onur_\OneDrive\Masaüstü\Dersler\Görsel Programlama\172119009_Muhammed_Onur_AKCAKALE\172119009_Muhammed_Onur_AKCAKALE\Entity\obj\x86\Release\Entity.dll
+C:\Users\onur_\OneDrive\Masaüstü\Dersler\Görsel Programlama\172119009_Muhammed_Onur_AKCAKALE\172119009_Muhammed_Onur_AKCAKALE\Entity\obj\x86\Release\Entity.pdb

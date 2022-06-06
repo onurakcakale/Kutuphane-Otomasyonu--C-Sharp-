@@ -1,0 +1,69 @@
+C:\Users\ote_o\Desktop\KutuphaneOtomasyonuKatmanlı\Veri\bin\x86\Release\Lotomasyonu.mdb
+C:\Users\ote_o\Desktop\KutuphaneOtomasyonuKatmanlı\Veri\bin\x86\Release\Veri.dll.config
+C:\Users\ote_o\Desktop\KutuphaneOtomasyonuKatmanlı\Veri\bin\x86\Release\Veri.dll
+C:\Users\ote_o\Desktop\KutuphaneOtomasyonuKatmanlı\Veri\bin\x86\Release\Veri.pdb
+C:\Users\ote_o\Desktop\KutuphaneOtomasyonuKatmanlı\Veri\bin\x86\Release\Entity.dll
+C:\Users\ote_o\Desktop\KutuphaneOtomasyonuKatmanlı\Veri\bin\x86\Release\Entity.pdb
+C:\Users\ote_o\Desktop\KutuphaneOtomasyonuKatmanlı\Veri\obj\x86\Release\Veri.csprojResolveAssemblyReference.cache
+C:\Users\ote_o\Desktop\KutuphaneOtomasyonuKatmanlı\Veri\obj\x86\Release\Veri.dll
+C:\Users\ote_o\Desktop\KutuphaneOtomasyonuKatmanlı\Veri\obj\x86\Release\Veri.pdb
+C:\Users\onur_\Desktop\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\Veri\bin\x86\Release\Veri.dll.config
+C:\Users\onur_\Desktop\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\Veri\bin\x86\Release\Veri.dll
+C:\Users\onur_\Desktop\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\Veri\bin\x86\Release\Veri.pdb
+C:\Users\onur_\Desktop\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\Veri\bin\x86\Release\Entity.dll
+C:\Users\onur_\Desktop\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\Veri\bin\x86\Release\Entity.pdb
+C:\Users\onur_\Desktop\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\Veri\bin\x86\Release\Entity.dll.config
+C:\Users\onur_\Desktop\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\Veri\obj\x86\Release\Veri.csprojAssemblyReference.cache
+C:\Users\onur_\Desktop\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\Veri\obj\x86\Release\Veri.csproj.CoreCompileInputs.cache
+C:\Users\onur_\Desktop\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\Veri\obj\x86\Release\Veri.csproj.CopyComplete
+C:\Users\onur_\Desktop\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\Veri\obj\x86\Release\Veri.dll
+C:\Users\onur_\Desktop\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\Veri\obj\x86\Release\Veri.pdb
+C:\Users\onur_\Desktop\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\Veri\bin\x86\Release\KutuphaneDatabase.mdb
+D:\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\Veri\bin\x86\Release\KutuphaneDatabase.mdb
+D:\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\Veri\bin\x86\Release\Veri.dll.config
+D:\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\Veri\bin\x86\Release\Veri.dll
+D:\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\Veri\bin\x86\Release\Veri.pdb
+D:\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\Veri\bin\x86\Release\Entity.dll
+D:\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\Veri\bin\x86\Release\Entity.pdb
+D:\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\Veri\bin\x86\Release\Entity.dll.config
+D:\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\Veri\obj\x86\Release\Veri.csprojAssemblyReference.cache
+D:\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\Veri\obj\x86\Release\Veri.csproj.CoreCompileInputs.cache
+D:\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\Veri\obj\x86\Release\Veri.csproj.CopyComplete
+D:\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\Veri\obj\x86\Release\Veri.dll
+D:\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\Veri\obj\x86\Release\Veri.pdb
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\Veri\bin\x86\Release\KutuphaneDatabase.mdb
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\Veri\bin\x86\Release\Veri.dll.config
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\Veri\bin\x86\Release\Veri.dll
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\Veri\bin\x86\Release\Veri.pdb
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\Veri\bin\x86\Release\Entity.dll
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\Veri\bin\x86\Release\Entity.pdb
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\Veri\bin\x86\Release\Entity.dll.config
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\Veri\obj\x86\Release\Veri.csprojAssemblyReference.cache
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\Veri\obj\x86\Release\Veri.csproj.CoreCompileInputs.cache
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\Veri\obj\x86\Release\Veri.csproj.CopyComplete
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\Veri\obj\x86\Release\Veri.dll
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\Veri\obj\x86\Release\Veri.pdb
+C:\Users\onur_\Desktop\Muhammed_Onur_AKCAKALE_172119009\Veri\bin\x86\Release\KutuphaneDatabase.mdb
+C:\Users\onur_\Desktop\Muhammed_Onur_AKCAKALE_172119009\Veri\bin\x86\Release\Veri.dll.config
+C:\Users\onur_\Desktop\Muhammed_Onur_AKCAKALE_172119009\Veri\bin\x86\Release\Veri.dll
+C:\Users\onur_\Desktop\Muhammed_Onur_AKCAKALE_172119009\Veri\bin\x86\Release\Veri.pdb
+C:\Users\onur_\Desktop\Muhammed_Onur_AKCAKALE_172119009\Veri\bin\x86\Release\Entity.dll
+C:\Users\onur_\Desktop\Muhammed_Onur_AKCAKALE_172119009\Veri\bin\x86\Release\Entity.pdb
+C:\Users\onur_\Desktop\Muhammed_Onur_AKCAKALE_172119009\Veri\bin\x86\Release\Entity.dll.config
+C:\Users\onur_\Desktop\Muhammed_Onur_AKCAKALE_172119009\Veri\obj\x86\Release\Veri.csprojAssemblyReference.cache
+C:\Users\onur_\Desktop\Muhammed_Onur_AKCAKALE_172119009\Veri\obj\x86\Release\Veri.csproj.CoreCompileInputs.cache
+C:\Users\onur_\Desktop\Muhammed_Onur_AKCAKALE_172119009\Veri\obj\x86\Release\Veri.csproj.CopyComplete
+C:\Users\onur_\Desktop\Muhammed_Onur_AKCAKALE_172119009\Veri\obj\x86\Release\Veri.dll
+C:\Users\onur_\Desktop\Muhammed_Onur_AKCAKALE_172119009\Veri\obj\x86\Release\Veri.pdb
+C:\Users\onur_\OneDrive\Masaüstü\Dersler\Görsel Programlama\172119009_Muhammed_Onur_AKCAKALE\172119009_Muhammed_Onur_AKCAKALE\Veri\bin\x86\Release\KutuphaneDatabase.mdb
+C:\Users\onur_\OneDrive\Masaüstü\Dersler\Görsel Programlama\172119009_Muhammed_Onur_AKCAKALE\172119009_Muhammed_Onur_AKCAKALE\Veri\bin\x86\Release\Veri.dll.config
+C:\Users\onur_\OneDrive\Masaüstü\Dersler\Görsel Programlama\172119009_Muhammed_Onur_AKCAKALE\172119009_Muhammed_Onur_AKCAKALE\Veri\bin\x86\Release\Veri.dll
+C:\Users\onur_\OneDrive\Masaüstü\Dersler\Görsel Programlama\172119009_Muhammed_Onur_AKCAKALE\172119009_Muhammed_Onur_AKCAKALE\Veri\bin\x86\Release\Veri.pdb
+C:\Users\onur_\OneDrive\Masaüstü\Dersler\Görsel Programlama\172119009_Muhammed_Onur_AKCAKALE\172119009_Muhammed_Onur_AKCAKALE\Veri\bin\x86\Release\Entity.dll
+C:\Users\onur_\OneDrive\Masaüstü\Dersler\Görsel Programlama\172119009_Muhammed_Onur_AKCAKALE\172119009_Muhammed_Onur_AKCAKALE\Veri\bin\x86\Release\Entity.pdb
+C:\Users\onur_\OneDrive\Masaüstü\Dersler\Görsel Programlama\172119009_Muhammed_Onur_AKCAKALE\172119009_Muhammed_Onur_AKCAKALE\Veri\bin\x86\Release\Entity.dll.config
+C:\Users\onur_\OneDrive\Masaüstü\Dersler\Görsel Programlama\172119009_Muhammed_Onur_AKCAKALE\172119009_Muhammed_Onur_AKCAKALE\Veri\obj\x86\Release\Veri.csprojAssemblyReference.cache
+C:\Users\onur_\OneDrive\Masaüstü\Dersler\Görsel Programlama\172119009_Muhammed_Onur_AKCAKALE\172119009_Muhammed_Onur_AKCAKALE\Veri\obj\x86\Release\Veri.csproj.CoreCompileInputs.cache
+C:\Users\onur_\OneDrive\Masaüstü\Dersler\Görsel Programlama\172119009_Muhammed_Onur_AKCAKALE\172119009_Muhammed_Onur_AKCAKALE\Veri\obj\x86\Release\Veri.csproj.CopyComplete
+C:\Users\onur_\OneDrive\Masaüstü\Dersler\Görsel Programlama\172119009_Muhammed_Onur_AKCAKALE\172119009_Muhammed_Onur_AKCAKALE\Veri\obj\x86\Release\Veri.dll
+C:\Users\onur_\OneDrive\Masaüstü\Dersler\Görsel Programlama\172119009_Muhammed_Onur_AKCAKALE\172119009_Muhammed_Onur_AKCAKALE\Veri\obj\x86\Release\Veri.pdb

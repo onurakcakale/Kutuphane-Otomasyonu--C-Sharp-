@@ -1,0 +1,83 @@
+C:\Users\ote_o\Desktop\KutuphaneOtomasyonuKatmanlı\BL\bin\x86\Release\Lotomasyonu.mdb
+C:\Users\ote_o\Desktop\KutuphaneOtomasyonuKatmanlı\BL\bin\x86\Release\BL.dll
+C:\Users\ote_o\Desktop\KutuphaneOtomasyonuKatmanlı\BL\bin\x86\Release\BL.pdb
+C:\Users\ote_o\Desktop\KutuphaneOtomasyonuKatmanlı\BL\bin\x86\Release\Entity.dll
+C:\Users\ote_o\Desktop\KutuphaneOtomasyonuKatmanlı\BL\bin\x86\Release\Veri.dll
+C:\Users\ote_o\Desktop\KutuphaneOtomasyonuKatmanlı\BL\bin\x86\Release\Entity.pdb
+C:\Users\ote_o\Desktop\KutuphaneOtomasyonuKatmanlı\BL\bin\x86\Release\Veri.pdb
+C:\Users\ote_o\Desktop\KutuphaneOtomasyonuKatmanlı\BL\obj\x86\Release\BL.csprojResolveAssemblyReference.cache
+C:\Users\ote_o\Desktop\KutuphaneOtomasyonuKatmanlı\BL\obj\x86\Release\BL.dll
+C:\Users\ote_o\Desktop\KutuphaneOtomasyonuKatmanlı\BL\obj\x86\Release\BL.pdb
+C:\Users\onur_\Desktop\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\BL\bin\x86\Release\BL.dll
+C:\Users\onur_\Desktop\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\BL\bin\x86\Release\BL.pdb
+C:\Users\onur_\Desktop\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\BL\bin\x86\Release\Entity.dll
+C:\Users\onur_\Desktop\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\BL\bin\x86\Release\Veri.dll
+C:\Users\onur_\Desktop\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\BL\bin\x86\Release\Entity.pdb
+C:\Users\onur_\Desktop\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\BL\bin\x86\Release\Entity.dll.config
+C:\Users\onur_\Desktop\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\BL\bin\x86\Release\Veri.pdb
+C:\Users\onur_\Desktop\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\BL\bin\x86\Release\Veri.dll.config
+C:\Users\onur_\Desktop\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\BL\obj\x86\Release\BL.csprojAssemblyReference.cache
+C:\Users\onur_\Desktop\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\BL\obj\x86\Release\BL.csproj.CoreCompileInputs.cache
+C:\Users\onur_\Desktop\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\BL\obj\x86\Release\BL.csproj.CopyComplete
+C:\Users\onur_\Desktop\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\BL\obj\x86\Release\BL.dll
+C:\Users\onur_\Desktop\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\BL\obj\x86\Release\BL.pdb
+C:\Users\onur_\Desktop\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\BL\bin\x86\Release\KutuphaneDatabase.mdb
+D:\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\BL\bin\x86\Release\KutuphaneDatabase.mdb
+D:\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\BL\bin\x86\Release\BL.dll
+D:\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\BL\bin\x86\Release\BL.pdb
+D:\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\BL\bin\x86\Release\Entity.dll
+D:\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\BL\bin\x86\Release\Veri.dll
+D:\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\BL\bin\x86\Release\Entity.pdb
+D:\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\BL\bin\x86\Release\Entity.dll.config
+D:\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\BL\bin\x86\Release\Veri.pdb
+D:\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\BL\bin\x86\Release\Veri.dll.config
+D:\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\BL\obj\x86\Release\BL.csprojAssemblyReference.cache
+D:\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\BL\obj\x86\Release\BL.csproj.CoreCompileInputs.cache
+D:\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\BL\obj\x86\Release\BL.csproj.CopyComplete
+D:\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\BL\obj\x86\Release\BL.dll
+D:\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\BL\obj\x86\Release\BL.pdb
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\BL\bin\x86\Release\KutuphaneDatabase.mdb
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\BL\bin\x86\Release\BL.dll
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\BL\bin\x86\Release\BL.pdb
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\BL\bin\x86\Release\Entity.dll
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\BL\bin\x86\Release\Veri.dll
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\BL\bin\x86\Release\Entity.pdb
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\BL\bin\x86\Release\Entity.dll.config
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\BL\bin\x86\Release\Veri.pdb
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\BL\bin\x86\Release\Veri.dll.config
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\BL\obj\x86\Release\BL.csprojAssemblyReference.cache
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\BL\obj\x86\Release\BL.csproj.CoreCompileInputs.cache
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\BL\obj\x86\Release\BL.csproj.CopyComplete
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\BL\obj\x86\Release\BL.dll
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\BL\obj\x86\Release\BL.pdb
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\BL\bin\x86\Release\ZedGraph.dll
+C:\Users\onur_\Desktop\Muhammed_Onur_AKCAKALE_172119009\BL\bin\x86\Release\KutuphaneDatabase.mdb
+C:\Users\onur_\Desktop\Muhammed_Onur_AKCAKALE_172119009\BL\bin\x86\Release\BL.dll
+C:\Users\onur_\Desktop\Muhammed_Onur_AKCAKALE_172119009\BL\bin\x86\Release\BL.pdb
+C:\Users\onur_\Desktop\Muhammed_Onur_AKCAKALE_172119009\BL\bin\x86\Release\Entity.dll
+C:\Users\onur_\Desktop\Muhammed_Onur_AKCAKALE_172119009\BL\bin\x86\Release\Veri.dll
+C:\Users\onur_\Desktop\Muhammed_Onur_AKCAKALE_172119009\BL\bin\x86\Release\ZedGraph.dll
+C:\Users\onur_\Desktop\Muhammed_Onur_AKCAKALE_172119009\BL\bin\x86\Release\Entity.pdb
+C:\Users\onur_\Desktop\Muhammed_Onur_AKCAKALE_172119009\BL\bin\x86\Release\Entity.dll.config
+C:\Users\onur_\Desktop\Muhammed_Onur_AKCAKALE_172119009\BL\bin\x86\Release\Veri.pdb
+C:\Users\onur_\Desktop\Muhammed_Onur_AKCAKALE_172119009\BL\bin\x86\Release\Veri.dll.config
+C:\Users\onur_\Desktop\Muhammed_Onur_AKCAKALE_172119009\BL\obj\x86\Release\BL.csprojAssemblyReference.cache
+C:\Users\onur_\Desktop\Muhammed_Onur_AKCAKALE_172119009\BL\obj\x86\Release\BL.csproj.CoreCompileInputs.cache
+C:\Users\onur_\Desktop\Muhammed_Onur_AKCAKALE_172119009\BL\obj\x86\Release\BL.csproj.CopyComplete
+C:\Users\onur_\Desktop\Muhammed_Onur_AKCAKALE_172119009\BL\obj\x86\Release\BL.dll
+C:\Users\onur_\Desktop\Muhammed_Onur_AKCAKALE_172119009\BL\obj\x86\Release\BL.pdb
+C:\Users\onur_\OneDrive\Masaüstü\Dersler\Görsel Programlama\172119009_Muhammed_Onur_AKCAKALE\172119009_Muhammed_Onur_AKCAKALE\BL\bin\x86\Release\KutuphaneDatabase.mdb
+C:\Users\onur_\OneDrive\Masaüstü\Dersler\Görsel Programlama\172119009_Muhammed_Onur_AKCAKALE\172119009_Muhammed_Onur_AKCAKALE\BL\bin\x86\Release\BL.dll
+C:\Users\onur_\OneDrive\Masaüstü\Dersler\Görsel Programlama\172119009_Muhammed_Onur_AKCAKALE\172119009_Muhammed_Onur_AKCAKALE\BL\bin\x86\Release\BL.pdb
+C:\Users\onur_\OneDrive\Masaüstü\Dersler\Görsel Programlama\172119009_Muhammed_Onur_AKCAKALE\172119009_Muhammed_Onur_AKCAKALE\BL\bin\x86\Release\Entity.dll
+C:\Users\onur_\OneDrive\Masaüstü\Dersler\Görsel Programlama\172119009_Muhammed_Onur_AKCAKALE\172119009_Muhammed_Onur_AKCAKALE\BL\bin\x86\Release\Veri.dll
+C:\Users\onur_\OneDrive\Masaüstü\Dersler\Görsel Programlama\172119009_Muhammed_Onur_AKCAKALE\172119009_Muhammed_Onur_AKCAKALE\BL\bin\x86\Release\ZedGraph.dll
+C:\Users\onur_\OneDrive\Masaüstü\Dersler\Görsel Programlama\172119009_Muhammed_Onur_AKCAKALE\172119009_Muhammed_Onur_AKCAKALE\BL\bin\x86\Release\Entity.pdb
+C:\Users\onur_\OneDrive\Masaüstü\Dersler\Görsel Programlama\172119009_Muhammed_Onur_AKCAKALE\172119009_Muhammed_Onur_AKCAKALE\BL\bin\x86\Release\Entity.dll.config
+C:\Users\onur_\OneDrive\Masaüstü\Dersler\Görsel Programlama\172119009_Muhammed_Onur_AKCAKALE\172119009_Muhammed_Onur_AKCAKALE\BL\bin\x86\Release\Veri.pdb
+C:\Users\onur_\OneDrive\Masaüstü\Dersler\Görsel Programlama\172119009_Muhammed_Onur_AKCAKALE\172119009_Muhammed_Onur_AKCAKALE\BL\bin\x86\Release\Veri.dll.config
+C:\Users\onur_\OneDrive\Masaüstü\Dersler\Görsel Programlama\172119009_Muhammed_Onur_AKCAKALE\172119009_Muhammed_Onur_AKCAKALE\BL\obj\x86\Release\BL.csprojAssemblyReference.cache
+C:\Users\onur_\OneDrive\Masaüstü\Dersler\Görsel Programlama\172119009_Muhammed_Onur_AKCAKALE\172119009_Muhammed_Onur_AKCAKALE\BL\obj\x86\Release\BL.csproj.CoreCompileInputs.cache
+C:\Users\onur_\OneDrive\Masaüstü\Dersler\Görsel Programlama\172119009_Muhammed_Onur_AKCAKALE\172119009_Muhammed_Onur_AKCAKALE\BL\obj\x86\Release\BL.csproj.CopyComplete
+C:\Users\onur_\OneDrive\Masaüstü\Dersler\Görsel Programlama\172119009_Muhammed_Onur_AKCAKALE\172119009_Muhammed_Onur_AKCAKALE\BL\obj\x86\Release\BL.dll
+C:\Users\onur_\OneDrive\Masaüstü\Dersler\Görsel Programlama\172119009_Muhammed_Onur_AKCAKALE\172119009_Muhammed_Onur_AKCAKALE\BL\obj\x86\Release\BL.pdb

@@ -1,0 +1,13 @@
+C:\Users\ote_o\Desktop\KutuphaneOtomasyonuKatmanlı\Entity\bin\Debug\Entity.dll
+C:\Users\ote_o\Desktop\KutuphaneOtomasyonuKatmanlı\Entity\bin\Debug\Entity.pdb
+C:\Users\ote_o\Desktop\KutuphaneOtomasyonuKatmanlı\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\Users\ote_o\Desktop\KutuphaneOtomasyonuKatmanlı\Entity\obj\Debug\Entity.dll
+C:\Users\ote_o\Desktop\KutuphaneOtomasyonuKatmanlı\Entity\obj\Debug\Entity.pdb
+C:\Users\ote_o\Desktop\KutuphaneOtomasyonuKatmanlı\Entity\bin\Debug\Entity.dll.config
+C:\Users\onur_\OneDrive\Masaüstü\Library Automation\Entity\bin\Debug\Entity.dll.config
+C:\Users\onur_\OneDrive\Masaüstü\Library Automation\Entity\bin\Debug\Entity.dll
+C:\Users\onur_\OneDrive\Masaüstü\Library Automation\Entity\bin\Debug\Entity.pdb
+C:\Users\onur_\OneDrive\Masaüstü\Library Automation\Entity\obj\Debug\Entity.csproj.AssemblyReference.cache
+C:\Users\onur_\OneDrive\Masaüstü\Library Automation\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\onur_\OneDrive\Masaüstü\Library Automation\Entity\obj\Debug\Entity.dll
+C:\Users\onur_\OneDrive\Masaüstü\Library Automation\Entity\obj\Debug\Entity.pdb

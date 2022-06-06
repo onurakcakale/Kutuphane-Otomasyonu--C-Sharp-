@@ -1,0 +1,21 @@
+C:\Users\ote_o\Desktop\KutuphaneOtomasyonuKatmanlı\Veri\bin\Debug\Veri.dll
+C:\Users\ote_o\Desktop\KutuphaneOtomasyonuKatmanlı\Veri\bin\Debug\Veri.pdb
+C:\Users\ote_o\Desktop\KutuphaneOtomasyonuKatmanlı\Veri\bin\Debug\Entity.dll
+C:\Users\ote_o\Desktop\KutuphaneOtomasyonuKatmanlı\Veri\bin\Debug\Entity.pdb
+C:\Users\ote_o\Desktop\KutuphaneOtomasyonuKatmanlı\Veri\obj\Debug\Veri.csprojResolveAssemblyReference.cache
+C:\Users\ote_o\Desktop\KutuphaneOtomasyonuKatmanlı\Veri\obj\Debug\Veri.dll
+C:\Users\ote_o\Desktop\KutuphaneOtomasyonuKatmanlı\Veri\obj\Debug\Veri.pdb
+C:\Users\ote_o\Desktop\KutuphaneOtomasyonuKatmanlı\Veri\bin\Debug\Veri.dll.config
+C:\Users\ote_o\Desktop\KutuphaneOtomasyonuKatmanlı\Veri\bin\Debug\Lotomasyonu.mdb
+C:\Users\onur_\OneDrive\Masaüstü\Library Automation\Veri\bin\Debug\KutuphaneDatabase.mdb
+C:\Users\onur_\OneDrive\Masaüstü\Library Automation\Veri\bin\Debug\Veri.dll.config
+C:\Users\onur_\OneDrive\Masaüstü\Library Automation\Veri\bin\Debug\Veri.dll
+C:\Users\onur_\OneDrive\Masaüstü\Library Automation\Veri\bin\Debug\Veri.pdb
+C:\Users\onur_\OneDrive\Masaüstü\Library Automation\Veri\bin\Debug\Entity.dll
+C:\Users\onur_\OneDrive\Masaüstü\Library Automation\Veri\bin\Debug\Entity.pdb
+C:\Users\onur_\OneDrive\Masaüstü\Library Automation\Veri\bin\Debug\Entity.dll.config
+C:\Users\onur_\OneDrive\Masaüstü\Library Automation\Veri\obj\Debug\Veri.csproj.AssemblyReference.cache
+C:\Users\onur_\OneDrive\Masaüstü\Library Automation\Veri\obj\Debug\Veri.csproj.CoreCompileInputs.cache
+C:\Users\onur_\OneDrive\Masaüstü\Library Automation\Veri\obj\Debug\Veri.csproj.CopyComplete
+C:\Users\onur_\OneDrive\Masaüstü\Library Automation\Veri\obj\Debug\Veri.dll
+C:\Users\onur_\OneDrive\Masaüstü\Library Automation\Veri\obj\Debug\Veri.pdb

@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F1411F43-0A26-42B0-8607-A8CC9B38BA99}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>KutuphaneOtomasyonu</RootNamespace>
+    <AssemblyName>KutuphaneOtomasyonu</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>
+    </ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="ZedGraph">
+      <HintPath>..\Veri\bin\Debug\ZedGraph.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Grafik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Grafik.Designer.cs">
+      <DependentUpon>Grafik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KitapIslemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KitapIslemleri.Designer.cs">
+      <DependentUpon>KitapIslemleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OduncIslemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OduncIslemleri.Designer.cs">
+      <DependentUpon>OduncIslemleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OgrenciPaneli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OgrenciPaneli.Designer.cs">
+      <DependentUpon>OgrenciPaneli.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminGiris.Designer.cs">
+      <DependentUpon>AdminGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminPaneli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminPaneli.Designer.cs">
+      <DependentUpon>AdminPaneli.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OgrenciKayit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OgrenciKayit.Designer.cs">
+      <DependentUpon>OgrenciKayit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="OgrenciGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OgrenciGiris.Designer.cs">
+      <DependentUpon>OgrenciGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OgrenciIslemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OgrenciIslemleri.Designer.cs">
+      <DependentUpon>OgrenciIslemleri.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Grafik.resx">
+      <DependentUpon>Grafik.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KitapIslemleri.resx">
+      <DependentUpon>KitapIslemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OduncIslemleri.resx">
+      <DependentUpon>OduncIslemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OgrenciPaneli.resx">
+      <DependentUpon>OgrenciPaneli.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminGiris.resx">
+      <DependentUpon>AdminGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminPaneli.resx">
+      <DependentUpon>AdminPaneli.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OgrenciKayit.resx">
+      <DependentUpon>OgrenciKayit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OgrenciGiris.resx">
+      <DependentUpon>OgrenciGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OgrenciIslemleri.resx">
+      <DependentUpon>OgrenciIslemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BL\BL.csproj">
+      <Project>{74e1555c-a67c-414b-acfc-46a160ee9fe7}</Project>
+      <Name>BL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Entity\Entity.csproj">
+      <Project>{47cd74e1-7fa8-481b-ac85-401ba8069480}</Project>
+      <Name>Entity</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Veri\Veri.csproj">
+      <Project>{63925fca-039c-402e-b571-422ebc92eb86}</Project>
+      <Name>Veri</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\administrator.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

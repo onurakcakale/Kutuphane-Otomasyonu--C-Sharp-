@@ -1,0 +1,148 @@
+D:\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\KutuphaneOtomasyonuKatmanlı\obj\x86\Release\KutuphaneOtomasyonu.csprojAssemblyReference.cache
+D:\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\KutuphaneOtomasyonuKatmanlı\obj\x86\Release\KutuphaneOtomasyonuKatmanli.Menu.resources
+D:\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\KutuphaneOtomasyonuKatmanlı\obj\x86\Release\KutuphaneOtomasyonuKatmanli.KitapIslemleri.resources
+D:\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\KutuphaneOtomasyonuKatmanlı\obj\x86\Release\KutuphaneOtomasyonuKatmanli.OduncIslemleri.resources
+D:\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\KutuphaneOtomasyonuKatmanlı\obj\x86\Release\KutuphaneOtomasyonuKatmanli.OgrenciPaneli.resources
+D:\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\KutuphaneOtomasyonuKatmanlı\obj\x86\Release\KutuphaneOtomasyonuKatmanli.YöneticiGiris.resources
+D:\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\KutuphaneOtomasyonuKatmanlı\obj\x86\Release\KutuphaneOtomasyonuKatmanli.YoneticiPaneli.resources
+D:\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\KutuphaneOtomasyonuKatmanlı\obj\x86\Release\KutuphaneOtomasyonuKatmanli.ogrYöneticigiris.resources
+D:\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\KutuphaneOtomasyonuKatmanlı\obj\x86\Release\KutuphaneOtomasyonuKatmanli.OgrenciGiris.resources
+D:\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\KutuphaneOtomasyonuKatmanlı\obj\x86\Release\KutuphaneOtomasyonuKatmanli.OgrenciIslemleri.resources
+D:\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\KutuphaneOtomasyonuKatmanlı\obj\x86\Release\KutuphaneOtomasyonu.csproj.GenerateResource.cache
+D:\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\KutuphaneOtomasyonuKatmanlı\obj\x86\Release\KutuphaneOtomasyonuKatmanli.exe
+D:\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\KutuphaneOtomasyonuKatmanlı\obj\x86\Release\KutuphaneOtomasyonuKatmanli.pdb
+D:\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\KutuphaneOtomasyonuKatmanlı\bin\x86\Release\KutuphaneDatabase.mdb
+D:\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\KutuphaneOtomasyonuKatmanlı\bin\x86\Release\KutuphaneOtomasyonuKatmanli.exe.config
+D:\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\KutuphaneOtomasyonuKatmanlı\bin\x86\Release\KutuphaneOtomasyonuKatmanli.exe
+D:\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\KutuphaneOtomasyonuKatmanlı\bin\x86\Release\KutuphaneOtomasyonuKatmanli.pdb
+D:\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\KutuphaneOtomasyonuKatmanlı\bin\x86\Release\BL.dll
+D:\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\KutuphaneOtomasyonuKatmanlı\bin\x86\Release\Entity.dll
+D:\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\KutuphaneOtomasyonuKatmanlı\bin\x86\Release\Veri.dll
+D:\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\KutuphaneOtomasyonuKatmanlı\bin\x86\Release\BL.pdb
+D:\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\KutuphaneOtomasyonuKatmanlı\bin\x86\Release\Entity.pdb
+D:\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\KutuphaneOtomasyonuKatmanlı\bin\x86\Release\Entity.dll.config
+D:\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\KutuphaneOtomasyonuKatmanlı\bin\x86\Release\Veri.pdb
+D:\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\KutuphaneOtomasyonuKatmanlı\bin\x86\Release\Veri.dll.config
+D:\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\KutuphaneOtomasyonuKatmanlı\obj\x86\Release\KutuphaneOtomasyonuKatmanli.Properties.Resources.resources
+D:\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\KutuphaneOtomasyonuKatmanlı\obj\x86\Release\KutuphaneOtomasyonu.csproj.CoreCompileInputs.cache
+D:\KutuphaneOtomasyonuKatmanl (1)\KutuphaneOtomasyonuKatmanlı\KutuphaneOtomasyonuKatmanlı\obj\x86\Release\KutuphaneOtomasyonu.csproj.CopyComplete
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonuKatmanlı\bin\x86\Release\KutuphaneDatabase.mdb
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonuKatmanlı\bin\x86\Release\BL.dll
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonuKatmanlı\bin\x86\Release\Entity.dll
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonuKatmanlı\bin\x86\Release\Veri.dll
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonuKatmanlı\bin\x86\Release\BL.pdb
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonuKatmanlı\bin\x86\Release\Entity.pdb
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonuKatmanlı\bin\x86\Release\Entity.dll.config
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonuKatmanlı\bin\x86\Release\Veri.pdb
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonuKatmanlı\bin\x86\Release\Veri.dll.config
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonuKatmanlı\obj\x86\Release\KutuphaneOtomasyonu.csprojAssemblyReference.cache
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonuKatmanlı\obj\x86\Release\KutuphaneOtomasyonuKatmanli.Menu.resources
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonuKatmanlı\obj\x86\Release\KutuphaneOtomasyonuKatmanli.KitapIslemleri.resources
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonuKatmanlı\obj\x86\Release\KutuphaneOtomasyonuKatmanli.OduncIslemleri.resources
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonuKatmanlı\obj\x86\Release\KutuphaneOtomasyonuKatmanli.OgrenciPaneli.resources
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonuKatmanlı\obj\x86\Release\KutuphaneOtomasyonuKatmanli.YöneticiGiris.resources
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonuKatmanlı\obj\x86\Release\KutuphaneOtomasyonuKatmanli.YoneticiPaneli.resources
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonuKatmanlı\obj\x86\Release\KutuphaneOtomasyonuKatmanli.ogrYöneticigiris.resources
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonuKatmanlı\obj\x86\Release\KutuphaneOtomasyonuKatmanli.OgrenciGiris.resources
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonuKatmanlı\obj\x86\Release\KutuphaneOtomasyonuKatmanli.OgrenciIslemleri.resources
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonuKatmanlı\obj\x86\Release\KutuphaneOtomasyonu.csproj.GenerateResource.cache
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonuKatmanlı\obj\x86\Release\KutuphaneOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonuKatmanlı\obj\x86\Release\KutuphaneOtomasyonu.csproj.CopyComplete
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonuKatmanlı\bin\x86\Release\KutuphaneOtomasyonu.exe.config
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonuKatmanlı\bin\x86\Release\KutuphaneOtomasyonu.exe
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonuKatmanlı\bin\x86\Release\KutuphaneOtomasyonu.pdb
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonuKatmanlı\obj\x86\Release\KutuphaneOtomasyonu.Properties.Resources.resources
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonuKatmanlı\obj\x86\Release\KutuphaneOtomasyonu.exe
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonuKatmanlı\obj\x86\Release\KutuphaneOtomasyonu.pdb
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonuKatmanlı\bin\x86\Release\ZedGraph.dll
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonuKatmanlı\obj\x86\Release\KutuphaneOtomasyonu.Grafik.resources
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\bin\x86\Release\KutuphaneDatabase.mdb
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\bin\x86\Release\KutuphaneOtomasyonu.exe.config
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\bin\x86\Release\KutuphaneOtomasyonu.exe
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\bin\x86\Release\KutuphaneOtomasyonu.pdb
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\bin\x86\Release\BL.dll
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\bin\x86\Release\Entity.dll
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\bin\x86\Release\Veri.dll
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\bin\x86\Release\ZedGraph.dll
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\bin\x86\Release\BL.pdb
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\bin\x86\Release\Entity.pdb
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\bin\x86\Release\Entity.dll.config
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\bin\x86\Release\Veri.pdb
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\bin\x86\Release\Veri.dll.config
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\x86\Release\KutuphaneOtomasyonu.csprojAssemblyReference.cache
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\x86\Release\KutuphaneOtomasyonu.Grafik.resources
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\x86\Release\KutuphaneOtomasyonuKatmanli.Menu.resources
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\x86\Release\KutuphaneOtomasyonuKatmanli.KitapIslemleri.resources
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\x86\Release\KutuphaneOtomasyonuKatmanli.OduncIslemleri.resources
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\x86\Release\KutuphaneOtomasyonuKatmanli.OgrenciPaneli.resources
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\x86\Release\KutuphaneOtomasyonuKatmanli.YöneticiGiris.resources
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\x86\Release\KutuphaneOtomasyonuKatmanli.YoneticiPaneli.resources
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\x86\Release\KutuphaneOtomasyonuKatmanli.ogrYöneticigiris.resources
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\x86\Release\KutuphaneOtomasyonu.Properties.Resources.resources
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\x86\Release\KutuphaneOtomasyonuKatmanli.OgrenciGiris.resources
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\x86\Release\KutuphaneOtomasyonuKatmanli.OgrenciIslemleri.resources
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\x86\Release\KutuphaneOtomasyonu.csproj.GenerateResource.cache
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\x86\Release\KutuphaneOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\x86\Release\KutuphaneOtomasyonu.csproj.CopyComplete
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\x86\Release\KutuphaneOtomasyonu.exe
+C:\Users\onur_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\x86\Release\KutuphaneOtomasyonu.pdb
+C:\Users\onur_\Desktop\Muhammed_Onur_AKCAKALE_172119009\KutuphaneOtomasyonu\bin\x86\Release\KutuphaneDatabase.mdb
+C:\Users\onur_\Desktop\Muhammed_Onur_AKCAKALE_172119009\KutuphaneOtomasyonu\bin\x86\Release\KutuphaneOtomasyonu.exe.config
+C:\Users\onur_\Desktop\Muhammed_Onur_AKCAKALE_172119009\KutuphaneOtomasyonu\bin\x86\Release\KutuphaneOtomasyonu.exe
+C:\Users\onur_\Desktop\Muhammed_Onur_AKCAKALE_172119009\KutuphaneOtomasyonu\bin\x86\Release\KutuphaneOtomasyonu.pdb
+C:\Users\onur_\Desktop\Muhammed_Onur_AKCAKALE_172119009\KutuphaneOtomasyonu\bin\x86\Release\BL.dll
+C:\Users\onur_\Desktop\Muhammed_Onur_AKCAKALE_172119009\KutuphaneOtomasyonu\bin\x86\Release\Entity.dll
+C:\Users\onur_\Desktop\Muhammed_Onur_AKCAKALE_172119009\KutuphaneOtomasyonu\bin\x86\Release\Veri.dll
+C:\Users\onur_\Desktop\Muhammed_Onur_AKCAKALE_172119009\KutuphaneOtomasyonu\bin\x86\Release\ZedGraph.dll
+C:\Users\onur_\Desktop\Muhammed_Onur_AKCAKALE_172119009\KutuphaneOtomasyonu\bin\x86\Release\BL.pdb
+C:\Users\onur_\Desktop\Muhammed_Onur_AKCAKALE_172119009\KutuphaneOtomasyonu\bin\x86\Release\Entity.pdb
+C:\Users\onur_\Desktop\Muhammed_Onur_AKCAKALE_172119009\KutuphaneOtomasyonu\bin\x86\Release\Entity.dll.config
+C:\Users\onur_\Desktop\Muhammed_Onur_AKCAKALE_172119009\KutuphaneOtomasyonu\bin\x86\Release\Veri.pdb
+C:\Users\onur_\Desktop\Muhammed_Onur_AKCAKALE_172119009\KutuphaneOtomasyonu\bin\x86\Release\Veri.dll.config
+C:\Users\onur_\Desktop\Muhammed_Onur_AKCAKALE_172119009\KutuphaneOtomasyonu\obj\x86\Release\KutuphaneOtomasyonu.csprojAssemblyReference.cache
+C:\Users\onur_\Desktop\Muhammed_Onur_AKCAKALE_172119009\KutuphaneOtomasyonu\obj\x86\Release\KutuphaneOtomasyonu.Grafik.resources
+C:\Users\onur_\Desktop\Muhammed_Onur_AKCAKALE_172119009\KutuphaneOtomasyonu\obj\x86\Release\KutuphaneOtomasyonuKatmanli.Menu.resources
+C:\Users\onur_\Desktop\Muhammed_Onur_AKCAKALE_172119009\KutuphaneOtomasyonu\obj\x86\Release\KutuphaneOtomasyonuKatmanli.KitapIslemleri.resources
+C:\Users\onur_\Desktop\Muhammed_Onur_AKCAKALE_172119009\KutuphaneOtomasyonu\obj\x86\Release\KutuphaneOtomasyonuKatmanli.OduncIslemleri.resources
+C:\Users\onur_\Desktop\Muhammed_Onur_AKCAKALE_172119009\KutuphaneOtomasyonu\obj\x86\Release\KutuphaneOtomasyonuKatmanli.OgrenciPaneli.resources
+C:\Users\onur_\Desktop\Muhammed_Onur_AKCAKALE_172119009\KutuphaneOtomasyonu\obj\x86\Release\KutuphaneOtomasyonuKatmanli.YöneticiGiris.resources
+C:\Users\onur_\Desktop\Muhammed_Onur_AKCAKALE_172119009\KutuphaneOtomasyonu\obj\x86\Release\KutuphaneOtomasyonuKatmanli.YoneticiPaneli.resources
+C:\Users\onur_\Desktop\Muhammed_Onur_AKCAKALE_172119009\KutuphaneOtomasyonu\obj\x86\Release\KutuphaneOtomasyonuKatmanli.ogrYöneticigiris.resources
+C:\Users\onur_\Desktop\Muhammed_Onur_AKCAKALE_172119009\KutuphaneOtomasyonu\obj\x86\Release\KutuphaneOtomasyonu.Properties.Resources.resources
+C:\Users\onur_\Desktop\Muhammed_Onur_AKCAKALE_172119009\KutuphaneOtomasyonu\obj\x86\Release\KutuphaneOtomasyonuKatmanli.OgrenciGiris.resources
+C:\Users\onur_\Desktop\Muhammed_Onur_AKCAKALE_172119009\KutuphaneOtomasyonu\obj\x86\Release\KutuphaneOtomasyonuKatmanli.OgrenciIslemleri.resources
+C:\Users\onur_\Desktop\Muhammed_Onur_AKCAKALE_172119009\KutuphaneOtomasyonu\obj\x86\Release\KutuphaneOtomasyonu.csproj.GenerateResource.cache
+C:\Users\onur_\Desktop\Muhammed_Onur_AKCAKALE_172119009\KutuphaneOtomasyonu\obj\x86\Release\KutuphaneOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\onur_\Desktop\Muhammed_Onur_AKCAKALE_172119009\KutuphaneOtomasyonu\obj\x86\Release\KutuphaneOtomasyonu.csproj.CopyComplete
+C:\Users\onur_\Desktop\Muhammed_Onur_AKCAKALE_172119009\KutuphaneOtomasyonu\obj\x86\Release\KutuphaneOtomasyonu.exe
+C:\Users\onur_\Desktop\Muhammed_Onur_AKCAKALE_172119009\KutuphaneOtomasyonu\obj\x86\Release\KutuphaneOtomasyonu.pdb
+C:\Users\onur_\OneDrive\Masaüstü\Dersler\Görsel Programlama\172119009_Muhammed_Onur_AKCAKALE\172119009_Muhammed_Onur_AKCAKALE\KutuphaneOtomasyonu\bin\x86\Release\KutuphaneDatabase.mdb
+C:\Users\onur_\OneDrive\Masaüstü\Dersler\Görsel Programlama\172119009_Muhammed_Onur_AKCAKALE\172119009_Muhammed_Onur_AKCAKALE\KutuphaneOtomasyonu\bin\x86\Release\KutuphaneOtomasyonu.exe.config
+C:\Users\onur_\OneDrive\Masaüstü\Dersler\Görsel Programlama\172119009_Muhammed_Onur_AKCAKALE\172119009_Muhammed_Onur_AKCAKALE\KutuphaneOtomasyonu\bin\x86\Release\KutuphaneOtomasyonu.exe
+C:\Users\onur_\OneDrive\Masaüstü\Dersler\Görsel Programlama\172119009_Muhammed_Onur_AKCAKALE\172119009_Muhammed_Onur_AKCAKALE\KutuphaneOtomasyonu\bin\x86\Release\KutuphaneOtomasyonu.pdb
+C:\Users\onur_\OneDrive\Masaüstü\Dersler\Görsel Programlama\172119009_Muhammed_Onur_AKCAKALE\172119009_Muhammed_Onur_AKCAKALE\KutuphaneOtomasyonu\bin\x86\Release\BL.dll
+C:\Users\onur_\OneDrive\Masaüstü\Dersler\Görsel Programlama\172119009_Muhammed_Onur_AKCAKALE\172119009_Muhammed_Onur_AKCAKALE\KutuphaneOtomasyonu\bin\x86\Release\Entity.dll
+C:\Users\onur_\OneDrive\Masaüstü\Dersler\Görsel Programlama\172119009_Muhammed_Onur_AKCAKALE\172119009_Muhammed_Onur_AKCAKALE\KutuphaneOtomasyonu\bin\x86\Release\Veri.dll
+C:\Users\onur_\OneDrive\Masaüstü\Dersler\Görsel Programlama\172119009_Muhammed_Onur_AKCAKALE\172119009_Muhammed_Onur_AKCAKALE\KutuphaneOtomasyonu\bin\x86\Release\ZedGraph.dll
+C:\Users\onur_\OneDrive\Masaüstü\Dersler\Görsel Programlama\172119009_Muhammed_Onur_AKCAKALE\172119009_Muhammed_Onur_AKCAKALE\KutuphaneOtomasyonu\bin\x86\Release\BL.pdb
+C:\Users\onur_\OneDrive\Masaüstü\Dersler\Görsel Programlama\172119009_Muhammed_Onur_AKCAKALE\172119009_Muhammed_Onur_AKCAKALE\KutuphaneOtomasyonu\bin\x86\Release\Entity.pdb
+C:\Users\onur_\OneDrive\Masaüstü\Dersler\Görsel Programlama\172119009_Muhammed_Onur_AKCAKALE\172119009_Muhammed_Onur_AKCAKALE\KutuphaneOtomasyonu\bin\x86\Release\Entity.dll.config
+C:\Users\onur_\OneDrive\Masaüstü\Dersler\Görsel Programlama\172119009_Muhammed_Onur_AKCAKALE\172119009_Muhammed_Onur_AKCAKALE\KutuphaneOtomasyonu\bin\x86\Release\Veri.pdb
+C:\Users\onur_\OneDrive\Masaüstü\Dersler\Görsel Programlama\172119009_Muhammed_Onur_AKCAKALE\172119009_Muhammed_Onur_AKCAKALE\KutuphaneOtomasyonu\bin\x86\Release\Veri.dll.config
+C:\Users\onur_\OneDrive\Masaüstü\Dersler\Görsel Programlama\172119009_Muhammed_Onur_AKCAKALE\172119009_Muhammed_Onur_AKCAKALE\KutuphaneOtomasyonu\obj\x86\Release\KutuphaneOtomasyonu.csprojAssemblyReference.cache
+C:\Users\onur_\OneDrive\Masaüstü\Dersler\Görsel Programlama\172119009_Muhammed_Onur_AKCAKALE\172119009_Muhammed_Onur_AKCAKALE\KutuphaneOtomasyonu\obj\x86\Release\KutuphaneOtomasyonu.Grafik.resources
+C:\Users\onur_\OneDrive\Masaüstü\Dersler\Görsel Programlama\172119009_Muhammed_Onur_AKCAKALE\172119009_Muhammed_Onur_AKCAKALE\KutuphaneOtomasyonu\obj\x86\Release\KutuphaneOtomasyonuKatmanli.Menu.resources
+C:\Users\onur_\OneDrive\Masaüstü\Dersler\Görsel Programlama\172119009_Muhammed_Onur_AKCAKALE\172119009_Muhammed_Onur_AKCAKALE\KutuphaneOtomasyonu\obj\x86\Release\KutuphaneOtomasyonuKatmanli.KitapIslemleri.resources
+C:\Users\onur_\OneDrive\Masaüstü\Dersler\Görsel Programlama\172119009_Muhammed_Onur_AKCAKALE\172119009_Muhammed_Onur_AKCAKALE\KutuphaneOtomasyonu\obj\x86\Release\KutuphaneOtomasyonuKatmanli.OduncIslemleri.resources
+C:\Users\onur_\OneDrive\Masaüstü\Dersler\Görsel Programlama\172119009_Muhammed_Onur_AKCAKALE\172119009_Muhammed_Onur_AKCAKALE\KutuphaneOtomasyonu\obj\x86\Release\KutuphaneOtomasyonuKatmanli.OgrenciPaneli.resources
+C:\Users\onur_\OneDrive\Masaüstü\Dersler\Görsel Programlama\172119009_Muhammed_Onur_AKCAKALE\172119009_Muhammed_Onur_AKCAKALE\KutuphaneOtomasyonu\obj\x86\Release\KutuphaneOtomasyonuKatmanli.YöneticiGiris.resources
+C:\Users\onur_\OneDrive\Masaüstü\Dersler\Görsel Programlama\172119009_Muhammed_Onur_AKCAKALE\172119009_Muhammed_Onur_AKCAKALE\KutuphaneOtomasyonu\obj\x86\Release\KutuphaneOtomasyonuKatmanli.YoneticiPaneli.resources
+C:\Users\onur_\OneDrive\Masaüstü\Dersler\Görsel Programlama\172119009_Muhammed_Onur_AKCAKALE\172119009_Muhammed_Onur_AKCAKALE\KutuphaneOtomasyonu\obj\x86\Release\KutuphaneOtomasyonuKatmanli.ogrYöneticigiris.resources
+C:\Users\onur_\OneDrive\Masaüstü\Dersler\Görsel Programlama\172119009_Muhammed_Onur_AKCAKALE\172119009_Muhammed_Onur_AKCAKALE\KutuphaneOtomasyonu\obj\x86\Release\KutuphaneOtomasyonu.Properties.Resources.resources
+C:\Users\onur_\OneDrive\Masaüstü\Dersler\Görsel Programlama\172119009_Muhammed_Onur_AKCAKALE\172119009_Muhammed_Onur_AKCAKALE\KutuphaneOtomasyonu\obj\x86\Release\KutuphaneOtomasyonuKatmanli.OgrenciGiris.resources
+C:\Users\onur_\OneDrive\Masaüstü\Dersler\Görsel Programlama\172119009_Muhammed_Onur_AKCAKALE\172119009_Muhammed_Onur_AKCAKALE\KutuphaneOtomasyonu\obj\x86\Release\KutuphaneOtomasyonuKatmanli.OgrenciIslemleri.resources
+C:\Users\onur_\OneDrive\Masaüstü\Dersler\Görsel Programlama\172119009_Muhammed_Onur_AKCAKALE\172119009_Muhammed_Onur_AKCAKALE\KutuphaneOtomasyonu\obj\x86\Release\KutuphaneOtomasyonu.csproj.GenerateResource.cache
+C:\Users\onur_\OneDrive\Masaüstü\Dersler\Görsel Programlama\172119009_Muhammed_Onur_AKCAKALE\172119009_Muhammed_Onur_AKCAKALE\KutuphaneOtomasyonu\obj\x86\Release\KutuphaneOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\onur_\OneDrive\Masaüstü\Dersler\Görsel Programlama\172119009_Muhammed_Onur_AKCAKALE\172119009_Muhammed_Onur_AKCAKALE\KutuphaneOtomasyonu\obj\x86\Release\KutuphaneOtomasyonu.csproj.CopyComplete
+C:\Users\onur_\OneDrive\Masaüstü\Dersler\Görsel Programlama\172119009_Muhammed_Onur_AKCAKALE\172119009_Muhammed_Onur_AKCAKALE\KutuphaneOtomasyonu\obj\x86\Release\KutuphaneOtomasyonu.exe
+C:\Users\onur_\OneDrive\Masaüstü\Dersler\Görsel Programlama\172119009_Muhammed_Onur_AKCAKALE\172119009_Muhammed_Onur_AKCAKALE\KutuphaneOtomasyonu\obj\x86\Release\KutuphaneOtomasyonu.pdb
